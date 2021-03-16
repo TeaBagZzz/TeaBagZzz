@@ -1,5 +1,5 @@
 - ## Hello World!!
-- 👋 Hi, I’m @TeaBagZzz
+- 👋 Awe, I’m Thabang aka @TeaBagZzz
 - 👀 I’m interested in developing applications, AI, electronics, gadgets & gaming.
 - 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on Laravel.
